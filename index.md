@@ -7,7 +7,7 @@
 
 1.1 These Terms of Service (the "**Terms**") constitute a binding legal agreement between you ("**you**" or "**User**") and the team behind Outpost ("**we**", "**us**", or "**our**") governing your access to and use of the Outpost mobile application (the "**Mobile App**"), the Outpost application for Reddit (the "**Reddit App**"), and any related services, features, and content we make available (collectively, the "**Service**").
 
-1.1.1 Certain provisions apply only to a particular means of access. **Section 20** sets out additional terms applicable to the Reddit App, and **Section 21** sets out additional terms applicable to Users who obtain the Mobile App from the Apple App Store. Where those sections conflict with the general provisions of these Terms, the additional terms prevail for that means of access.
+1.1.1 Certain provisions apply only to a particular means of access. **Section 20** sets out additional terms applicable to the Reddit App. Where that Section conflicts with the general provisions of these Terms, it prevails for that means of access.
 
 1.2 By downloading, installing, accessing, or using the Service, you acknowledge that you have read and understood these Terms and you agree to be bound by them. **If you do not agree to these Terms, you must not access or use the Service.**
 
@@ -281,7 +281,7 @@ You represent and warrant that, with respect to all User Content you submit:
 
 18.8 **Headings.** Section headings are for convenience only and do not affect the interpretation of these Terms.
 
-18.9 **No third-party beneficiaries.** Except as stated in Section 21, these Terms confer no rights or remedies on any person other than you and us.
+18.9 **No third-party beneficiaries.** These Terms confer no rights or remedies on any person other than you and us.
 
 ## 19. Copyright Complaints and Notice-and-Takedown
 
@@ -369,27 +369,7 @@ In addition to Section 11.1, you agree that you will not:
 
 For the avoidance of doubt, Sections 7 and 13 apply in full to information displayed through the Reddit App. **The presence of a venue in the directory is not a representation that it is open, that it will show any particular game, or that it is any good.**
 
-## 21. Additional Terms for Apple App Store Users
-
-If you obtained the Mobile App from the Apple App Store, the following additional terms apply and prevail over any conflicting provision:
-
-21.1 These Terms are concluded between you and us only, and not with Apple Inc. ("**Apple**"). We, not Apple, are solely responsible for the Service and its content.
-
-21.2 The license granted in Section 8.2 is limited to a non-transferable license to use the Service on any Apple-branded device that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions.
-
-21.3 Apple has no obligation to furnish any maintenance or support services with respect to the Service.
-
-21.4 In the event of any failure of the Service to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Service. To the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Service.
-
-21.5 We, not Apple, are responsible for addressing any claims by you or any third party relating to the Service, including product liability claims, any claim that the Service fails to conform to any legal or regulatory requirement, and claims arising under consumer protection or similar legislation.
-
-21.6 We, not Apple, are responsible for the investigation, defense, settlement, and discharge of any third-party claim that the Service or your use of it infringes that third party's intellectual property rights.
-
-21.7 You represent that you are not located in a country subject to a United States Government embargo or designated as a "terrorist supporting" country, and that you are not listed on any United States Government list of prohibited or restricted parties.
-
-21.8 **Apple and its subsidiaries are third-party beneficiaries of these Terms**, and upon your acceptance of these Terms Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary.
-
-## 22. Contact
+## 21. Contact
 
 Questions or notices regarding these Terms may be directed to:
 
