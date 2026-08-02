@@ -161,7 +161,7 @@ You represent and warrant that, with respect to all User Content you submit:
 
 &nbsp;&nbsp;&nbsp;&nbsp;(a) use the Service to harass, threaten, or defame any person, or to damage a venue's reputation through false reports or coordinated inauthentic voting;
 
-&nbsp;&nbsp;&nbsp;&nbsp;(b) scrape, crawl, harvest, bulk-export, republish, or resell any data made available through the Service;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) extract, harvest, or copy the contents of the Service in bulk, whether by automated means or otherwise, or republish, redistribute, or commercially exploit the Service or any substantial part of it as a compilation — including Community Ratings and our selection, arrangement, and curation of Bar Data. **This restriction protects the Service as a compiled work and the capacity of the systems that serve it. It is not an assertion of ownership in the underlying facts about any venue** — such as its name, its address, or the teams it shows — which we do not claim to own;
 
 &nbsp;&nbsp;&nbsp;&nbsp;(c) interfere with, disrupt, overburden, or impair the Service or its infrastructure;
 
@@ -205,7 +205,7 @@ You represent and warrant that, with respect to all User Content you submit:
 
 14.3 **OUR TOTAL AGGREGATE LIABILITY** to you for all claims arising out of or relating to these Terms or the Service, in the aggregate and regardless of the number of claims, **WILL NOT EXCEED THE GREATER OF (A) THE TOTAL AMOUNT YOU HAVE PAID US FOR THE SERVICE IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM (WHICH, THE SERVICE BEING PROVIDED FREE OF CHARGE, IS ZERO), OR (B) ONE HUNDRED UNITED STATES DOLLARS (US $100.00).**
 
-14.4 You acknowledge that the limitations in this Section 14 are an essential basis of the bargain between you and us, that we would not provide the Service free of charge without them, and that they apply even if a limited remedy fails of its essential purpose.
+14.4 You acknowledge that the limitations in this Section 14 are an essential basis of the bargain between you and us, and that they apply even if a limited remedy fails of its essential purpose.
 
 14.5 Some jurisdictions do not permit the exclusion or limitation of certain damages. To the extent such a limitation is prohibited, our liability is limited to the smallest amount permitted by applicable law. **Nothing in these Terms excludes or limits liability for death or personal injury caused by negligence, for fraud or fraudulent misrepresentation, or for any other liability that cannot lawfully be excluded.**
 
@@ -325,7 +325,7 @@ These terms apply in addition to the rest of these Terms when you access the Ser
 
 &nbsp;&nbsp;&nbsp;&nbsp;(a) **Bar nominations submitted through the Reddit App are processed automatically and are not published immediately.** A submission is queued, and the address you provide is independently verified against public geocoding services.
 
-&nbsp;&nbsp;&nbsp;&nbsp;(b) **You agree that a submission whose address cannot be resolved, or which resolves ambiguously, will be discarded**, and that we are under no obligation to notify you, to explain the outcome, or to publish any particular submission.
+&nbsp;&nbsp;&nbsp;&nbsp;(b) **You agree that a submission whose address cannot be resolved, or which resolves ambiguously, will be discarded.** Where the Service is able to report the outcome of a submission back to you, it will do so. We do not guarantee notification in every case, and we are not obliged to explain a particular outcome or to publish any particular submission.
 
 &nbsp;&nbsp;&nbsp;&nbsp;(c) We may remove any listing that we determine to be inaccurate, closed, duplicative, or not a genuine venue, on the terms set out in Section 6.6.
 
