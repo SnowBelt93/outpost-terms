@@ -61,15 +61,31 @@ For the purposes of these Terms, the following capitalized terms have the meanin
 
 This Section describes accounts in the **Mobile App**. Access through the Reddit App uses a different identity model, set out in Section 20.2.
 
-5.1 The Mobile App does not require registration in the conventional sense. When you first open it, an anonymous account identifier is created through Firebase Authentication. That identifier is a random value and is not associated with your name, email address, telephone number, or any other directly identifying information. There is no sign-up process and no password.
+5.1 **Anonymous account.** The Mobile App does not require registration in the conventional sense. When you first open it, an anonymous account identifier is created through Firebase Authentication. That identifier is a random value and is not associated with your name, email address, telephone number, or any other directly identifying information. There is no sign-up process and no password. The identifier is held in your device's keychain and **persists across app launches and across deleting and reinstalling the Mobile App on the same device**.
 
-5.2 **You acknowledge that your account cannot be recovered.** Because the account is anonymous and resides on your device, we have no means of restoring it. You agree that if you delete the Service, reset your device, or move to a different device:
+5.2 **Sign in with Apple.** Signing in is **optional**; the Mobile App is fully functional without it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) your ratings, plans, and preferences will not transfer and cannot be restored; and
+&nbsp;&nbsp;&nbsp;&nbsp;(a) If you choose to Sign in with Apple, we link your existing anonymous account to your Apple ID so that your contributions remain associated with you **across devices**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;(b) any User Content you previously contributed to the community — including nominations and ratings — will remain in the Service for the benefit of other Users, but will no longer be associated with any device you control.
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Apple provides your name the first time you sign in, and we use it as your **display name**. If no name is provided, a default display name is used. **You acknowledge that your display name may be visible to other Users** alongside your contributions.
 
-5.3 You are responsible for all activity occurring through your device's access to the Service.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Apple may also provide an email address, which may be a private relay address. We do not use it within the Service. The Privacy Policy describes what we store and how.
+
+&nbsp;&nbsp;&nbsp;&nbsp;(d) You may revoke Sign in with Apple for the Service at any time through your device settings.
+
+5.3 **Account persistence and recovery.** You acknowledge and agree that:
+
+&nbsp;&nbsp;&nbsp;&nbsp;(a) deleting and reinstalling the Mobile App **on the same device restores** your anonymous account, because the identifier is retained in the device keychain — your ratings and plans remain associated with you;
+
+&nbsp;&nbsp;&nbsp;&nbsp;(b) **on a different device you receive a new anonymous account**, and your ratings, plans, and preferences do not transfer, **unless you have signed in with Apple**, in which case signing in on that device restores your account;
+
+&nbsp;&nbsp;&nbsp;&nbsp;(c) **an anonymous account cannot be recovered by any other means.** There is no password, email address, or other credential against which we could verify a claim to it, and if the device keychain entry is lost we have no means of restoring the account;
+
+&nbsp;&nbsp;&nbsp;&nbsp;(d) if you sign in with Apple on a device that already holds anonymous activity, and that Apple ID is already associated with an account, **you will be signed into the existing account and this device's anonymous activity will not merge into it**; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;(e) in every case, User Content you have contributed to the community — including nominations and ratings — **remains in the Service** for the benefit of other Users, whether or not it remains associated with an account you control.
+
+5.4 You are responsible for all activity occurring through your device's access to the Service.
 
 ## 6. User Content
 
@@ -183,7 +199,7 @@ You represent and warrant that, with respect to all User Content you submit:
 
 12.3 Upon termination, the licenses granted to you in Section 8.2 immediately cease. **Sections 6.2 through 6.4, 7, 8.1, 13, 14, 15, 16, 18, 19, and 20 survive termination**, together with any provision that by its nature should survive.
 
-12.4 You acknowledge that User Content already incorporated into Community Ratings or the community dataset may persist in aggregate form following termination, as described in Sections 5.2 and 6.4.
+12.4 You acknowledge that User Content already incorporated into Community Ratings or the community dataset may persist in aggregate form following termination, as described in Sections 5.3 and 6.4.
 
 ## 13. Disclaimer of Warranties
 

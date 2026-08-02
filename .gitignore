@@ -1,0 +1,7 @@
+# Superseded plain-language draft of the terms, kept locally for reference.
+# NEVER commit: GitHub Pages renders any .md in this repo as a page, so
+# committing it would publish a second, contradictory terms document at a
+# guessable URL.
+index.plain-language.bak.md
+
+.DS_Store
