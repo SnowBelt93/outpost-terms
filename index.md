@@ -5,7 +5,7 @@
 
 ## 1. Agreement to These Terms
 
-1.1 These Terms of Service (the "**Terms**") constitute a binding legal agreement between you ("**you**" or "**User**") and the team behind Outpost ("**we**", "**us**", or "**our**") governing your access to and use of the Outpost mobile application (the "**Mobile App**"), the Outpost application for Reddit (the "**Reddit App**"), and any related services, features, and content we make available (collectively, the "**Service**").
+1.1 These Terms of Service (the "**Terms**") constitute a binding legal agreement between you ("**you**" or "**User**") and the team behind Outpost ("**we**", "**us**", or "**our**") governing your access to and use of the Outpost mobile application for iOS and Android (the "**Mobile App**"), the Outpost application for Reddit (the "**Reddit App**"), and any related services, features, and content we make available (collectively, the "**Service**").
 
 1.1.1 Certain provisions apply only to a particular means of access. **Section 20** sets out additional terms applicable to the Reddit App. Where that Section conflicts with the general provisions of these Terms, it prevails for that means of access.
 
@@ -61,9 +61,9 @@ For the purposes of these Terms, the following capitalized terms have the meanin
 
 This Section describes accounts in the **Mobile App**. Access through the Reddit App uses a different identity model, set out in Section 20.2.
 
-5.1 **Anonymous account.** The Mobile App does not require registration in the conventional sense. When you first open it, an anonymous account identifier is created through Firebase Authentication. That identifier is a random value and is not associated with your name, email address, telephone number, or any other directly identifying information. There is no sign-up process and no password. The identifier is held in your device's keychain and **persists across app launches and across deleting and reinstalling the Mobile App on the same device**.
+5.1 **Anonymous account.** The Mobile App does not require registration in the conventional sense. When you first open it, an anonymous account identifier is created through Firebase Authentication. That identifier is a random value and is not associated with your name, email address, telephone number, or any other directly identifying information. There is no sign-up process and no password. **Where the identifier is stored, and therefore whether it survives a reinstall, differs by platform** — see Section 5.3.
 
-5.2 **Sign in with Apple.** Signing in is **optional**; the Mobile App is fully functional without it.
+5.2 **Sign in with Apple (iOS only).** Signing in is **optional**; the Mobile App is fully functional without it. **The Android app offers no sign-in and is anonymous-only**, so the whole of this Section 5.2 applies to iOS alone.
 
 &nbsp;&nbsp;&nbsp;&nbsp;(a) If you choose to Sign in with Apple, we link your existing anonymous account to your Apple ID so that your contributions remain associated with you **across devices**.
 
@@ -75,9 +75,11 @@ This Section describes accounts in the **Mobile App**. Access through the Reddit
 
 5.3 **Account persistence and recovery.** You acknowledge and agree that:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) deleting and reinstalling the Mobile App **on the same device restores** your anonymous account, because the identifier is retained in the device keychain — your ratings and plans remain associated with you;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) **on iOS**, deleting and reinstalling the Mobile App on the same device **restores** your anonymous account, because the identifier is retained in the iOS Keychain, which survives app deletion — your ratings and plans remain associated with you;
 
-&nbsp;&nbsp;&nbsp;&nbsp;(b) **on a different device you receive a new anonymous account**, and your ratings, plans, and preferences do not transfer, **unless you have signed in with Apple**, in which case signing in on that device restores your account;
+&nbsp;&nbsp;&nbsp;&nbsp;(a-i) **on Android**, it does NOT. The identifier lives in the app's private storage, which the operating system erases on uninstall, so **reinstalling produces a new anonymous account**. Your earlier contributions remain in the Service for other Users but are no longer associated with you, and cannot be reconnected;
+
+&nbsp;&nbsp;&nbsp;&nbsp;(b) **on a different device you receive a new anonymous account**, and your ratings, plans, and preferences do not transfer, **unless you have signed in with Apple on iOS**, in which case signing in on that device restores your account. Android offers no such transfer;
 
 &nbsp;&nbsp;&nbsp;&nbsp;(c) **an anonymous account cannot be recovered by any other means.** There is no password, email address, or other credential against which we could verify a claim to it, and if the device keychain entry is lost we have no means of restoring the account;
 
