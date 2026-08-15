@@ -5,3 +5,14 @@
 index.plain-language.bak.md
 
 .DS_Store
+
+# Firebase admin credentials — this repo publishes via GitHub Pages, so a
+# committed key would be world-readable at a guessable URL. Never commit.
+firebase_admin_sdk.json
+sa.json
+
+# Local environment file. Empty today, but this repo is PUBLIC and publishes
+# via GitHub Pages — anything committed here is world-readable at a
+# guessable URL. Ignored so a wide `git add` cannot publish it later.
+.env
+.env.*
